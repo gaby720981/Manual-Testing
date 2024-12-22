@@ -1,7 +1,7 @@
 # Manual Testing Practices
 
 ## Introducción
-Este repositorio documenta mis prácticas de testing funcional manual realizadas en sitios web populares.
+Este repositorio documenta mis prácticas de testing funcional manual realizadas en sitios web.
 
 ## Herramientas utilizadas
 - **Excel**: Para la creación y seguimiento de casos de prueba.
