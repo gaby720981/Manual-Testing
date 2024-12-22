@@ -10,7 +10,7 @@ Este repositorio documenta mis prácticas de testing funcional manual realizadas
 
 ## Contenido
 - [Casos de Prueba (Excel)]()
-- [Tablero de Bugs (Trello)])
+- [Tablero de Bugs (Trello)]()
 - [Documentación Completa (Notion)]()
 
 ## Aprendizajes
