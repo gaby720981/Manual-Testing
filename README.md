@@ -11,7 +11,7 @@ Este repositorio documenta mis prácticas de testing funcional manual realizadas
 ## Contenido
 - [Casos de Prueba (Excel)]()
 - [Tablero de Bugs (Trello)]()
-- [Documentación Completa (Notion)]()
+- [Documentación Completa (Notion)](https://www.notion.so/Manual-Testing-Portfolio-164e8cd10c148030a283fd587bef1196?pvs=4)
 
 ## Aprendizajes
 - Identificación de bugs críticos y menores.
